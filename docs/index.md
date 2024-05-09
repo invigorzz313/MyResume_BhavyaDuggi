@@ -17,7 +17,7 @@ COUNTRY: India
 GMAIL: bhavyaduggi03@gmail.com  
 LINKEDIN: https://www.linkedin.com/in/bhavyaduggi03/  
 GITHUB: https://github.com/invigorzz313  
-REPO LINK OF TASK: https://github.com/invigorzz313/My\_Resume\_BhavyaDuggi  
+REPO LINK OF TASK: https://github.com/invigorzz313/MyResume_BhavyaDuggi  
 
 ### Cover letter
 
