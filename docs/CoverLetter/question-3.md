@@ -1,0 +1,5 @@
+# Question 3
+
+## What experience and knowledge/skills do you have that are applicable to this program?
+
+My prior experience in open-source sets me apart as an applicant to this program. I have been engaged with the Girlscript Summer of Code program in 2023 as a contributor and 2024 as a mentor. The knowledge and skills I have developed so far in communication, collaboration and technical expertise in coding and documentation will help me better improve my performance in this mentorship opportunity. Along with my curiosity to explore the domain of Blockchain development, my combination of technical expertise, community engagement, and interdisciplinary skills makes me a standout candidate for the mentorship opportunity. I am genuinely passionate for learning and expanding my skillset. I am intrigued by the potential of Blockchain technology such as improving transparency in supply chains, enhancing financial inclusion, or enhancing new forms of digital identity and I am eager to contribute to projects that have a meaningful impact on society.

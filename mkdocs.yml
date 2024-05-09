@@ -1,0 +1,100 @@
+site_name: Bhavya Duggi - CV and Cover letter
+repo_name: invigorzz313/Resume_BhavyaDuggi
+repo_url: https://github.com/invigorzz313/Resume_BhavyaDuggi
+theme:
+  name: material
+  custom_dir: overrides
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+  - content.code.copy
+  - navigation.expand
+  - navigation.footer
+  - navigation.instant
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.top
+  - navigation.tracking
+  - toc.follow
+  - toc.integrate
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+plugins:
+  - search
+  - mike
+extra:
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+  version:
+    provider: mike
+nav:
+  - Introduction: index.md
+  - CV:
+    - Introduction: CV/Introduction.md
+    - Education: CV/Education.md
+    - Awards and Achievements: CV/Awards.md
+    - Experience: CV/Experience.md
+    - Position Of Responsibility: CV/PoR.md
+    - Skills and Expertise: CV/Skills.md
+    - Coursework: CV/Coursework.md
+    - Volunteering: CV/Volunteering.md
+  - Cover Letter:
+    - Question 1: CoverLetter/question-1.md
+    - Question 2: CoverLetter/question-2.md
+    - Question 3: CoverLetter/question-3.md
+    - Question 4: CoverLetter/question-4.md
+  - References and Remarks: references.md
+
+
+
